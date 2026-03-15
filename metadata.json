@@ -1,0 +1,5 @@
+{
+  "name": "EduTrack Pro",
+  "description": "A comprehensive Student Management System for registration, attendance, marks, fees, and timetables with an admin dashboard.",
+  "requestFramePermissions": []
+}
