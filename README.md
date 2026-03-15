@@ -1,4 +1,5 @@
-#Student Management System
+#Student Management System:
+
 The Student Management System is a simple software application designed to help manage student information in an organized way. It allows users such as administrators, teachers, or staff to store, update, and view student details easily.
 
 This system helps in maintaining important student data like student name, email, gender, course, and other academic information in a structured database. Instead of maintaining records manually on paper, the system stores the data digitally, which makes it easier to access, search, and manage.
